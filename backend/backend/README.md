@@ -404,9 +404,4 @@ Your Feedback and Contributions are Welcome!
 - **Issue Reporting**: Help me by reporting any bugs or issues on GitHub.
 - **Code Contributions**: Contribute to the codebase.
 
-### Contact and Support:
-Email: [mahmoud.b.miqdad@gmail.com](mailto:mahmoud.b.miqdad@gmail.com).
-
-GitHub: [Mahmoud Miqdad](https://github.com/Mahmoud-B-Miqdad).
-
 Thank you for your interest. I look forward to hearing from you!
